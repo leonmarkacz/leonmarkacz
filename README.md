@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Leon Markacz</h1>
 <h3>Software developer from Germany</h3>
 
-- 🔭 I’m currently working at [CodeCamp:N GmbH](https://codecamp-n.com/)
-
 - 👯 I’m looking to collaborate on **cool opensource stuff**
 
 - ⚡ Fun fact **I like to build keyboards.**
