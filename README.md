@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Leon Markacz</h1>
 <h3>Software developer from Germany</h3>
 
-- 👯 I’m looking to collaborate on **cool opensource stuff**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - ⚡ Fun fact **I like to build keyboards.**
 
