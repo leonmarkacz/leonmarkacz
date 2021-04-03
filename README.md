@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- ⚡ Fun fact **I like to build keyboards.**
+- ⚡ Fun fact **I like to build custom keyboards.**
 
 <h3>Connect with me:</h3>
 <p>
