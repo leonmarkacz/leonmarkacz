@@ -3,10 +3,4 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- ⚡ Fun fact **I like to build custom keyboards.**
-
-<h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/leon-markacz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leon-markacz" height="30" width="40" /></a>
-<a href="https://instagram.com/leon_markacz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leon_markacz" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact **I like to build custom keyboards**
