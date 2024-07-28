@@ -3,4 +3,4 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- ⚡ Fun fact **I like to build custom keyboards**
+- ⚡ 3D printing and custom keyboard enthusiasts
