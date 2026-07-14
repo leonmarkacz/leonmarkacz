@@ -1,11 +1,16 @@
-<h1>Hi 👋, I'm Leon</h1>
-<h3>Software Engineer from Germany</h3>
+# Hi, I'm Leon 👋
 
-<p>
-  Experienced Senior Software Engineer with a strong background in all stages of the development cycle for web and backend projects.  
-  Proficient in <strong>TypeScript, SQL, Angular, ExpressJS, and NestJS</strong>.  
-  Committed to developing <strong>high-performance, scalable solutions</strong> and currently expanding my technical expertise by learning <strong>Rust</strong>.
-</p>
+Senior software engineer in Nuremberg, Germany, building backend systems and practical developer tools.
 
-- 👯 Looking to collaborate on **open-source projects**
-- ⚡ 3D printing enthusiast
+- **Core stack:** TypeScript, Node.js, NestJS, Angular, and SQL
+- **Currently:** learning Rust by shipping small native tools
+- **Outside software:** 3D printing
+- **Open source:** open to focused collaborations
+
+## Featured work
+
+### [Steamy](https://github.com/leonmarkacz/steamy)
+
+A lightweight macOS menu-bar app written in Rust. It uses macOS's built-in `caffeinate` command to keep the display and system awake without polling.
+
+[Website](https://markacz.eu/) · [LinkedIn](https://linkedin.com/in/leonmarkacz)
