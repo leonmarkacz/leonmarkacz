@@ -2,7 +2,7 @@
 
 Senior software engineer in Nuremberg, Germany, building backend systems and practical developer tools.
 
-- **Core stack:** TypeScript, Node.js, NestJS, Angular, and SQL
+- **Core stack:** TypeScript, Node.js, ExpressJS, Angular, and SQL
 - **Currently:** learning Rust by shipping small native tools
 - **Outside software:** 3D printing
 - **Open source:** open to focused collaborations
